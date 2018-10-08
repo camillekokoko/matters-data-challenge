@@ -15,15 +15,15 @@ Please contact gl@mattters.news if you have any questions.
 
 Each of the challenges are designed to be open-ended, so that the participant can explore and implement as much as her/his time and energy permits. All options will get bonus points if the computation is hosted and carried out remotely.
 
-### a. Restraurant lifespan prediction and exploration with Yelp data
+### a. Restraurant survival prediction and exploration with Yelp data
 
 Yelp dataset is used in this exercise to predict and understand restraurant lifespan. It can be downloaded from [Yelp data challenge website](https://www.yelp.com/dataset) or [Kaggle's hosted version](https://www.kaggle.com/yelp-dataset/yelp-dataset). Data points in most cities are sparse, so the participant can choose one or more large cities that have enough data points.
 
 **Requirements**:
 
-1. Extract estimation for restaurant survival time.
-2. Make predictions of restaurant survival time based on other features, estimate and visualize error/precision of prediction.
-3. Classify restaurants into groups, and form initial hypothesis that explans the lifespan differences among groups.
+1. Extract estimation for restaurant survival rate at different year.
+2. Make predictions of restaurant survival rate based on number of year and other features, estimate and visualize error/precision of prediction.
+3. Classify restaurants into groups, and form initial hypothesis that explans the survival rate differences among groups.
 
 **Bonus**:
 
