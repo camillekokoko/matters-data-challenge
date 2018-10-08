@@ -21,8 +21,8 @@ Yelp dataset is used in this exercise to predict and understand restraurant life
 
 **Requirements**:
 
-1. Extract estimation for restaurant survival rate at different year.
-2. Make predictions of restaurant survival rate based on number of year and other features, estimate or visualize error/precision of prediction.
+1. Extract estimations of restaurant lifespan.
+2. Using lifespan estimations, make predictions of restaurant survival rate based on available features, estimate or visualize error/precision of prediction.
 3. Form initial hypothesis that explans the survival rate differences among groups.
 
 **Bonus**:
