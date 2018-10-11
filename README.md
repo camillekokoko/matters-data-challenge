@@ -47,7 +47,7 @@ Douban movie and user data is used in this exercise to calculated the similartiy
 **Requiements**:
 1. Strip off meta data and only use text for the following exercise.
 2. Choose and implement a suitable method (e.g. LDA) to identity the topics in each body. Alternatively, choose and implement a classification method that classify the corpus according to different topics or sentiments.
-3. Implement a method that can find a list of similar text for a given piece of text.
+3. Implement a method that can find a list of similar text for a given piece of text, using result from step 2 or other metric of text similarity.
 
 **Bonus**:
 1. Visualize the topics or classes in the analysis results.
