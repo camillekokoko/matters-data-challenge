@@ -6,8 +6,6 @@
 
 * Participant should clone this repo, and submit her/his work by pushing up a new branch with the participant's name. All files needed to reproduce the result should be included in the repo.
 
-Please contact gl@mattters.news if you have any questions.
-
 ---
 
 
