@@ -4,7 +4,7 @@
 
 * Python and Jupyter Notebook are preferred. R (with RStudio) and Scala (with Zeppelin Notebook) are also accepted.
 
-* Participant should clone this repo, and submit her/his work by pushing up a new branch with the participant's name. All files needed to reproduce the result should be included in the repo.
+* Participant should clone this repo, and submit her/his work by pushing up a new branch with the participant's name. All files needed to reproduce the result should be included in the repo, or instructions for dependencies should be included.
 
 ---
 
